@@ -1,3 +1,6 @@
 this is a test
 what can i say?
 What is the difference between the markdown and word files?
+# this is a test
+## this is a second headline
+### this is a third headline
